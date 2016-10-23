@@ -1,0 +1,26 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "Single player tic-tac-toe game\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[DjavaScript\u001b[3~\u001b[3~\u001b[C\u001b[C\u001b[C\u001b[C game",
+  "main": "dist/index.html",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Tic-Tac-Toe"
+  },
+  "keywords": [
+    "game",
+    "javascript"
+  ],
+  "author": "LaVaughn Haynes",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^0.25.0",
+    "node-sass": "^3.10.1",
+    "sass-loader": "^4.0.2",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.2"
+  }
+}
