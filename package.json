@@ -1,7 +1,7 @@
 {
   "name": "tic-tac-toe",
   "version": "1.0.0",
-  "description": "Single player tic-tac-toe game\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[DjavaScript\u001b[3~\u001b[3~\u001b[C\u001b[C\u001b[C\u001b[C game",
+  "description": "Single player tic-tac-toe game",
   "main": "dist/index.html",
   "scripts": {
     "test": "start"
@@ -18,9 +18,14 @@
   "license": "ISC",
   "devDependencies": {
     "css-loader": "^0.25.0",
+    "file-loader": "^0.9.0",
+    "handlebars": "^4.0.5",
+    "handlebars-loader": "^1.4.0",
+    "jquery": "^3.1.1",
     "node-sass": "^3.10.1",
     "sass-loader": "^4.0.2",
     "style-loader": "^0.13.1",
+    "url-loader": "^0.5.7",
     "webpack": "^1.13.2"
   }
 }
